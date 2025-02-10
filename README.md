@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cristiano</h1>
-<h2 align="center">A passionate frontend developer</h2>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cristianolagesf&label=Profile%20views&color=0e75b6&style=flat" alt="cristianolagesf" /> </p>
 
-- 🌱 I’m currently learning **React,Redux and Node**
 
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **cristianolagesf@hotmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/cristiano-lages-filho/](https://www.linkedin.com/in/cristiano-lages-filho/)
 
 
 <h3 align="left">Languages and Tools:</h3>
